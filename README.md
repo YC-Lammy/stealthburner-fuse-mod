@@ -7,7 +7,7 @@ bill of materials:
 | ---- | -------- |
 | m3x8 SHSC | 1 |
 | m3x16 SHSC | 1 |
-| RH-95C 20x12x5 | 1 |
+| RH-150C 20x12x5 | 1 |
 
 wiring diagram:
 
