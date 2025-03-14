@@ -11,3 +11,4 @@ bill of materials:
 
 wiring diagram:
 
+![wiring diagram](wiring.png?raw=true)
